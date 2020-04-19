@@ -20,3 +20,15 @@ Nice to have features:
 4) Sign up sheets.  A common need is a list of people signing up for cookie booths, camping trips etc.  So a table made from a SQL table that shows who is going etc.  
 5) generic file sharing.  A way to upload/download pdf's or whatever.  This seems really hard.
 
+Technologies Used:
+
+1. Handlebars
+2. NodeJS
+3. Express
+4. MySQL
+5. Sequelize
+6. JQuery
+7. Google Calendar API
+8. Materialize
+
+Deployed: https://enigmatic-mesa-65313.herokuapp.com
