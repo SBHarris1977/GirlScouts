@@ -32,3 +32,15 @@ Technologies Used:
 8. Materialize
 
 Deployed: https://enigmatic-mesa-65313.herokuapp.com
+
+Working the Application
+1. To add news to the site simply click the News link.
+2. Enter text in the news post.
+3. Enter title, name and date (the date can be manually entered or use up and down arrows).
+4. Click the "Post" button and the data is saved.
+
+When you return to the Home page the news post as been added to the bottom.
+
+To enter comments into the discussion you will need to login with Facebook or Twitter.
+
+![](https://github.com/SBHarris1977/GirlScouts/blob/master/public/images/Girl%20Scouts%20Photo.JPG)
